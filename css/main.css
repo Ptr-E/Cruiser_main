@@ -1,0 +1,108 @@
+body {
+	font-family: 'Neucha', ;
+}
+
+	/*FONTS*/
+
+h2 {
+	font-size: 40px;
+	text-align: center;
+	font-family: "Rye", cursive	;
+}
+
+@font-face {
+    font-family: londonfog;
+    src: url(fonts/london.fog.ttf);
+}
+
+	/*NAVIGATION BAR*/
+
+
+.navbar {
+	color: #3F4F7E;
+	background-color: #F7F5FF;
+
+}
+.navbar-brand {
+	color: #3F4F7E;
+	font-size: 70px;
+	font-family: "london.fog";
+	padding-top: 30px;
+
+}
+
+.social {
+	padding-top: 70px;
+}
+
+.logo {
+	position: relative;
+	left: 15em;
+	bottom: 7em;
+}
+
+	/*BUTTONS*/
+
+.btn {
+	width: 460px;
+	height: 50px;
+	text-transform: uppercase;
+}
+
+.btn-main:hover {
+	
+}
+
+.btn-main_men,
+.btn-main_women {
+	font-family: "Rye";
+	border: 1px solid #000;
+}
+
+
+.btn-main_men {
+	color: #000;
+	background-color: #357520;
+}
+
+.btn-main_men:hover {
+	color: #357520;
+	background-color: #000;
+}
+
+
+
+.btn-main_women {
+	color: #FFB936;
+	background-color: #FF36E1;
+}
+
+.btn-main_women:hover {
+	color: #FF36E1;
+	background-color: #FFB936;
+}
+
+span,
+span.contact {
+	color: #3F4F7E;
+	font-size: 20px;
+	font-family: "Rye";
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/*span.contact {
+	font-size: 15px;
+}*/
+
+		/*FOOTER*/
+
+
+footer {
+	height: 25%;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #F7F5FF;
+}
