@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"https"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"DIV",
+				"div"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"slider",
+				"sliderUL"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"COLOR",
+				"background-color"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"styl",
+				"stylesheet"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"img",
+				"image"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"r",
+				"repeat-y"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padidng",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"t",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"Pa",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"a",
+				"a9b2b9"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"df",
+				"dfe2e5"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"s",
+				"solid"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser_Main/css/index.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser_Main/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser_Main/css/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser_Main/men_main.html",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/console-log.sublime-snippet",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/fetch-function.sublime-snippet",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/ajax-js-script.sublime-snippet",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/handlebar.sublime-snippet",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/siaf.sublime-snippet",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/scriptsrc.sublime-snippet",
+		"/Users/estradap840/Desktop/DONOTDELETE/firstsite/js/main.js",
+		"/Users/estradap840/Desktop/DONOTDELETE/firstsite/index.html",
+		"/Users/estradap840/Desktop/handlebars-v3.0.3.js",
+		"/Users/estradap840/Desktop/DONOTDELETE/firstsite/css/mustache.js",
+		"/Users/estradap840/Desktop/DONOTDELETE/Lucy/assets/IMG_3311.jpg",
+		"/Users/estradap840/Desktop/DONOTDELETE/Lucy/assets/IMG_2467.jpg",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/estradap840/Desktop/DONOTDELETE/Lucy/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Lucy/index.html",
+		"/Users/estradap840/Desktop/lesson-1/css/main.css",
+		"/Users/estradap840/Library/Application Support/Sublime Text 3/Packages/User/snippit-siaf",
+		"/Users/estradap840/Desktop/lesson-1/js/jquery-1.11.3.min copy.js",
+		"/Users/estradap840/Desktop/lesson-1/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/fonts/London_fog.ttf",
+		"/Users/estradap840/Desktop/Gymnasium-Project/js/debugging.js",
+		"/Users/estradap840/Desktop/Gymnasium-Project/js/events.js",
+		"/Users/estradap840/Desktop/Gymnasium-Project/js/methods.js",
+		"/Users/estradap840/Desktop/Gymnasium-Project/js/array.js",
+		"/Users/estradap840/Desktop/Gymnasium-Project/js/functions.js",
+		"/Users/estradap840/Desktop/DONOTDELETE/Barbershop_1/css/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Barbershop_1/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Barbershop_1/assets/Razor.jpg",
+		"/Users/estradap840/Desktop/DONOTDELETE/Barbershop_1/assets/DSC00862.JPG",
+		"/Users/estradap840/Desktop/DONOTDELETE/LocalHost/html5-boilerplate_v5.2.0/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/LocalHost/bootstrap.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Barbershop_1/css/bootstrap.min.css",
+		"/Users/estradap840/Desktop/15921553-Straight-razor-and-shaving-brush-Doodle-style-Stock-Vector-razor.jpg",
+		"/Users/estradap840/Desktop/Gymnasium-Project/main.js",
+		"/Users/estradap840/Desktop/Gymnasium-Project/index.html",
+		"/Users/estradap840/Desktop/lesson-1/index.html",
+		"/Users/estradap840/Desktop/BootStrap _templates/MultipurposeCreativeTemplate/shop-left-sidebar.html",
+		"/Users/estradap840/Desktop/BootStrap _templates/MultipurposeCreativeTemplate/css/style.css",
+		"/Users/estradap840/Desktop/jquery-1.11.3.min.js",
+		"/Users/estradap840/Downloads/demo/demo-1.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/css/grayscale.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser_Main/js/bootstrap.min copy.js",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/l_bottoms.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/css/bootstrap.min.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/m_shirts.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/README.md",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/m_shorts.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/m_sport.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/accessories.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/headwear.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/m_shirts2.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/l_tops.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/l-tops.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/m_jackets.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/L-tops.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/L-Tops.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/L-sport.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/L_jackets",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/L_bottoms.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/m_pants.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/LocalHost/animate.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/JumboTron Demo/index.html",
+		"/Users/estradap840/Desktop/HTML5/initializrBSTW/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/untitled folder/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/shirts.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/css/shirts.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/products.html",
+		"/Users/estradap840/Desktop/JavaBootDemo/index.html",
+		"/Users/estradap840/Desktop/JavaBootDemo/main.js",
+		"/Users/estradap840/Desktop/JavaBootDemo/css/javaboot.css",
+		"/Users/estradap840/Desktop/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Google/index.html",
+		"/Users/estradap840/Desktop/untitled.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/css/men.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/mens-shirts.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser-Bootstrap/Men.html",
+		"/Users/estradap840/Downloads/Magister/index.html",
+		"/Users/estradap840/Downloads/initializr/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Bootstrap1/partII.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Bootstrap1/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/css/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/ladies.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/Hats.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Google/css/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/CodeSchoolProjects/37SIgnalClass/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/CodeSchoolProjects/37SIgnalClass/css/main.css",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/about.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/css/animate.css",
+		"/Users/estradap840/Downloads/animate.css",
+		"/Users/estradap840/Desktop/styles-conference/assets/stylesheets/main.css",
+		"/Users/estradap840/Desktop/styles-conference/index.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Cruiser/blog.html",
+		"/Users/estradap840/Desktop/styles-conference/schdule.html",
+		"/Users/estradap840/Desktop/styles-conference/register.html",
+		"/Users/estradap840/Desktop/styles-conference/venue.html",
+		"/Users/estradap840/Desktop/styles-conference/speakers.html",
+		"/Users/estradap840/Downloads/styles-conference/speakers.html",
+		"/Users/estradap840/Desktop/DONOTDELETE/Googletwo/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Pdvasv",
+			"body",
+			"jumbotron",
+			"jumbotrom",
+			"div.jumbotron",
+			"navbar",
+			"container",
+			".product-price",
+			"overaly",
+			"#lifestyle",
+			"footer",
+			".navbar-collapse",
+			".navbar-nav",
+			"@",
+			"rotate-up-left",
+			"rotate up left",
+			"page-top",
+			"page top",
+			"swing",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
