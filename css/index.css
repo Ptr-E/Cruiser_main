@@ -18,8 +18,8 @@ h2 {
 h6 {
   font-family: 'cabin sketch', 'Armata', sans-serif;
   font-size: 25px;
+} 
 
-}
 
 @font-face {
   font-family: londonfog;
@@ -28,20 +28,13 @@ h6 {
 
 /*SHIPPING*/
 
-/*.fa-shopping-cart {
-  float: right;
-  color: #fff;
-}
-.fa-shopping-cart:hover {
-  color: orange;
-}*/
 
 i.cart {
   color: #fff;
 }
 
 i.cart:hover {
-  color: orange;
+  color: #FF9500;
 }
 
 
@@ -57,8 +50,6 @@ i.cart:hover {
 .shipping.container {
   height: 2em;
 }
-
-
 
 
 /*NAVIGATION BAR*/
@@ -82,8 +73,8 @@ ul.navbar-nav {
 }
 
 .nav>li>a {
-
-  color: orange;
+  background-color: transparent;
+  color: #FF9500;
 }
 
 .nav>li>a:hover {
@@ -95,13 +86,16 @@ ul.navbar-nav {
 }
 
 
-.navbar-brand {
-  font: 80px "london.fog", 'Armata', sans-serif;
+a#navbar-brand {
+  font: 80px 'Architects Daughter', cursive;
   color: #fff;
+  padding: 0 20px;
+  font-weight: 600;
 }
 
-a.navbar-brand:hover {
-  color: orange;
+a#navbar-brand:hover {
+  color: #FF9500;
+  text-decoration: none;
 }
 
 .nav .open>a,
@@ -112,7 +106,7 @@ a.navbar-brand:hover {
 }
 
 .dropdown-menu>li>a:hover{
-  color: orange;
+  color: #FF9500;
   background: #090A53;
 }
 
@@ -123,7 +117,7 @@ a.navbar-brand:hover {
 
 /*CAROSEL*/
   
-.carosel {
+.cruiser-carousel {
   margin: 10em 5em; 
   text-align: center;
 }
@@ -136,13 +130,16 @@ a.navbar-brand:hover {
 .social-banner {
   background-color: #090A53;
   text-align: center;
-  word-spacing: 2em;
+  word-spacing: 6em;
+}
+
+.ig-feed {
+  border-right: 1px dashed #000;
 }
 
 .ig-feed,
 .twitter-feed {
-  border: 1px solid #000;
-  padding: 20em 3em;
+  padding: 20em 2em;
   text-align: center;
 }
 
@@ -195,7 +192,12 @@ h6.co-tag {
   margin-left: 10em;
 }
 
-/*MEDIA QUERY*/
+
+
+
+
+/*MEDIA QUERY
+==============*/
 
 @media (max-width:1330px) {
   .navbar-brand {
@@ -271,7 +273,7 @@ h6.co-tag {
   }
 }
 
-@media (max-width: 438px) {
+@media (max-width: 438px) { 
   .container-main {
     height: 83em;
   }

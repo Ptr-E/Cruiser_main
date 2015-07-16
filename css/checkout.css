@@ -55,13 +55,14 @@ h6 {
 }
 
 .navbar-brand {
-  font: 80px "london.fog", 'Armata', sans-serif;
+  font: 80px 'Architects Daughter', cursive;
   color: #fff;
-  padding-top: 40px;
+  padding: 0 20px;
+  font-weight: 600;
 }
 
 .navbar-brand:hover {
-  color: #337ab7;
+  color: #FF9500;
 }
 
 #social {
@@ -83,7 +84,7 @@ h6 {
 .men-main:hover,
 .women-main:hover {
   font-size: 35px;
-  color: Orange; 
+  color: #FF9500; 
   transition-duration:.20s;
   transition-timing-function:ease-in-out;
   text-decoration: none;
@@ -102,7 +103,7 @@ i.hand {
 }
 i.hand:hover {
   font-size: 40px;
-  color: Orange;
+  color: #FF9500;
   transition-duration:.20s;
   transition-timing-function:ease-in-out; 
 }
@@ -119,7 +120,7 @@ span.contact {
 
 span:hover,
 span.contact:hover {
-  color: #337ab7;
+  color: #FF9500;
   text-decoration: none;
 }
 
@@ -128,8 +129,18 @@ i {
 }
 
 i:hover {
-  color: #337ab7;
+  color: #FF9500;
   text-decoration: none;
+}
+
+.btn {
+  background: navy;
+  background: linear-gradient(#49708f, #293f50);
+  color: #FF9500;
+}
+
+.btn-danger {
+  border-radius: 6px;  
 }
 
 /*FOOTER*/
@@ -210,7 +221,7 @@ table {
 thead {
   background: navy;
   background: linear-gradient(#49708f, #293f50);
-  color: Orange;
+  color: #FF9500;
 }
 
 tbody {
