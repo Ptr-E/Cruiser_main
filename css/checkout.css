@@ -91,7 +91,6 @@ h6 {
 }
 
 
-
 i {
   color: #090A53;
 }
@@ -99,13 +98,6 @@ i {
 i.hand {
   font-size: 30px;
   color: #090A53;
- 
-}
-i.hand:hover {
-  font-size: 40px;
-  color: #FF9500;
-  transition-duration:.20s;
-  transition-timing-function:ease-in-out; 
 }
 
 
@@ -139,6 +131,10 @@ i:hover {
   color: #FF9500;
 }
 
+.btn:hover {
+  color: purple;
+}
+
 .btn-danger {
   border-radius: 6px;  
 }
@@ -156,6 +152,7 @@ footer {
 
 .footer-logo {
   float: left;
+  /*padding-top: 2em;*/
 }
 
 .footer-area-container {
@@ -171,6 +168,29 @@ footer {
   padding-top: 15px;
   float: right;
 }
+
+
+/*BACKTOSALE*/
+
+ul.sale-items {
+
+}
+
+ul.also-bought {
+
+}
+
+li {
+  height: 15px;
+  margin: auto;
+  display: inline-block;
+}
+
+li.inner-also {
+  display: none;
+}
+
+
 
 /*ROWS*/
 
@@ -199,16 +219,17 @@ ul {
   display: inline-block;
 }
 
-.container-also {
+.container.container-also {
   text-align: center;
   height: 35em;
-  padding-top: 6em;
+
 }
 
 .container-sale {
   text-align: center;
-  height: 15em;
+  height: 25em;
 }
+
 
 /*TABLE*/
 

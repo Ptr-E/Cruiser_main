@@ -213,6 +213,12 @@ ul.pagination-sm {
   margin:3em 0;
 }
 
+.product-desc {
+  border-bottom:1px solid #000;
+  padding-bottom: 30px;
+  width: 100%;
+}
+
 .clearfix {
   display: inline-block;
 }
